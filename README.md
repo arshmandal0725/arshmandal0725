@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arsh Kumar Mandal</h1>
 <h3 align="center">A passionate flutter developer.</h3>
-
-<img align =“right” alt= “coding” width =“400” src=https://github.com/rudrabarad/Gifs>
+<img allang =“right” alt = “coding” width = “400” src = “https://github.com/rudrabarad/Gifs”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshmandal0725&label=Profile%20views&color=0e75b6&style=flat" alt="arshmandal0725" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshmandal0725" alt="arshmandal0725" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arshkumarmandal" target="blank"><img src="https://img.shields.io/twitter/follow/arshkumarmandal?logo=twitter&style=for-the-badge" alt="arshkumarmandal" /></a> </p>
 
